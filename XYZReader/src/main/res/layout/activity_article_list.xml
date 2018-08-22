@@ -7,7 +7,7 @@
         android:id="@+id/toolbar_container"
         android:layout_height="116dp"
         android:layout_width="match_parent"
-        android:elevation="8dp">
+        android:elevation="4dp">
 
         <android.support.design.widget.CollapsingToolbarLayout
             android:layout_width="match_parent"
